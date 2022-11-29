@@ -11,4 +11,4 @@ This is a random password generator that will allow you to choose a password bet
 
 ## Link
 
-<a href=https://github.com/shobannah/randomPasswordGenerator.git>Random Password Generator
+<a href=https://github.com/shobannah/randomPasswordGenerator.git> Random Password Generator
